@@ -1,4 +1,4 @@
-# Instructions
+# Instructions 
 Your project needs two parts; a backend API, and a React frontend. You'll need to create a `User` model using mongoose, with properties for your registered user, and to store a user's access token.
 
 Then, on the frontend side of things, you'll need to build up a registration form that POSTs to your API. You'll need to store the access token you get back in the browser using local storage, and then use that token when making other requests to your API.
